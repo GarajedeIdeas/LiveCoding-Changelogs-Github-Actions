@@ -4,7 +4,8 @@
   "description": "Live coding automatic Changelogs with Github Actions",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "bumpp --commit --push --tag"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/GarajedeIdeas/LiveCoding-Changelogs-Github-Actions/issues"
   },
-  "homepage": "https://github.com/GarajedeIdeas/LiveCoding-Changelogs-Github-Actions#readme"
+  "homepage": "https://github.com/GarajedeIdeas/LiveCoding-Changelogs-Github-Actions#readme",
+  "devDependencies": {
+    "bumpp": "^9.4.0"
+  }
 }
