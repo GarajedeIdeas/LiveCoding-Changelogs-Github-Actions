@@ -1,0 +1,19 @@
+{
+  "name": "livecoding-changelogs-github-actions",
+  "version": "0.0.0",
+  "description": "Live coding automatic Changelogs with Github Actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GarajedeIdeas/LiveCoding-Changelogs-Github-Actions.git"
+  },
+  "author": "pablosirera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GarajedeIdeas/LiveCoding-Changelogs-Github-Actions/issues"
+  },
+  "homepage": "https://github.com/GarajedeIdeas/LiveCoding-Changelogs-Github-Actions#readme"
+}
